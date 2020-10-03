@@ -1,0 +1,18 @@
+/**
+ * The following styles get applied inside the editor only.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+.wp-block-create-block-practice-block {
+  border: 1px dotted #f00; }
+
+#wp-block-practice-card {
+  color: white;
+  width: 500px;
+  height: 100%;
+  padding: 30px;
+  border-radius: 54px;
+  box-shadow: 7px 10px 50px rgba(0, 0, 0, 0.16); }
+
+
+/*# sourceMappingURL=index.css.map*/
